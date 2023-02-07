@@ -9,5 +9,10 @@ public class Steps {
 
     @io.cucumber.java.en.Then("^Reset the credential$")
     public void resetTheCredential() {
+
+        System.out.println("reyas");
+
     }
+
+
 }
